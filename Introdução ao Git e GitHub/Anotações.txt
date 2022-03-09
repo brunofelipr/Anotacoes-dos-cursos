@@ -1,0 +1,2 @@
+Códigos: git bash here, git status, ls, git add ., git commit -m, git push, git pull
+AINDA NAO FINALIZADO
