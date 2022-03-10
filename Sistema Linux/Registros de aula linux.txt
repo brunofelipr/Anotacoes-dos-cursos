@@ -1,0 +1,6 @@
+O Linux não é um sistema operacional me si, e sim o que da vida ao sistema operacional, o Linux é o kernel do sistema, ele faz a ligação entre o hardware e o Shell
+Desenvolvido por várias pessoas e empresas ao redor de todo o mundo
+multitarefa e multiusuário 
+distribuição Linux: uma empresa cria uma distribuição específica para um fim específico de escolha da própria empresa
+distribuições mais conhecidas: Ubuntu, Debian, SuSe, Fedora, Red Hat e KALI 
+Ubuntu: S.O de código aberto desenvolvido pela Canonical com base no kernel Linux, baseado no Debian e aceito por muitas comunidades de usuários até hoje.
