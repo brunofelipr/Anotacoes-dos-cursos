@@ -4,3 +4,24 @@ multitarefa e multiusuário
 distribuição Linux: uma empresa cria uma distribuição específica para um fim específico de escolha da própria empresa
 distribuições mais conhecidas: Ubuntu, Debian, SuSe, Fedora, Red Hat e KALI 
 Ubuntu: S.O de código aberto desenvolvido pela Canonical com base no kernel Linux, baseado no Debian e aceito por muitas comunidades de usuários até hoje.
+COMANDOS:
+ls-lista diretórios
+ls -l: lista longa e detalhada
+ls dir- lista algum diretório ao colocar o nome no lugar do DIR
+history- histórico de comandos
+mkdir- cria diretório
+rm -r- remove diretórios com a opção -r
+cd dir- muda de diretório
+cd /- muda para o diretório seguido da barra ou "/"
+cd ~- muda para o diretório pessoal (home)
+cd ..- retorna ao diretório anterior
+--help- exibe arquivo de ajuda de um comando
+man (comando)- exibe o manual de comando
+mv (dir antigo) (dir novo)- renomea diretório ou arquivo
+mv dir/ ~- move um diretório para o diretório pessoal(home)
+touch (nome do arquivo)- cria arquivos vazios no Linux
+cp (arquivo) (dir)- cria uma cópia de um arquivo para outro diretório
+rmdir- específico para remover diretórios
+rm (arquivo)- remove um arquivo
+clear- limpa o terminal
+exit- finaliza a sessão do terminal e fecha a aba
