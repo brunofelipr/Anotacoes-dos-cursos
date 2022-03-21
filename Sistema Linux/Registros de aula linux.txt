@@ -25,3 +25,24 @@ rmdir- específico para remover diretórios
 rm (arquivo)- remove um arquivo
 clear- limpa o terminal
 exit- finaliza a sessão do terminal e fecha a aba
+nano- editor de texto Ubuntu, interface do terminal
+COMANDOS NANO
+ctrl+g- ajuda
+ctrl+j- justifica texto de ajuda
+alt+u- desjustifica texto de ajuda
+f1- abre texto de ajuda
+ctrl+x- fecha nano
+ctrl+o- grava no disco
+ctrl+r- insere
+ctrl+/- substituir
+TERMINAL
+cat+arquivo de texto- visualizar arquivo pelo terminal
+tac+arquivo de texto- visualiza arquivo ao contrário
+head+arquivo de texto- visualiza as 10 primeiras linhas do texto
+tail+arquivo de texto- vizualisa as 10 ultimas linhas do texto
+>>- criar arquivo derivado daquelas informações do texto
+cal- calendario
+| grep+palavra do texto- deixa a palavra que você marcou vermelha todas as vezes que ela aparece no texto
+
+
+
