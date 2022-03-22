@@ -43,6 +43,19 @@ tail+arquivo de texto- vizualisa as 10 ultimas linhas do texto
 >>- criar arquivo derivado daquelas informações do texto
 cal- calendario
 | grep+palavra do texto- deixa a palavra que você marcou vermelha todas as vezes que ela aparece no texto
+find- busca arquivos
+file- exibe um tipo de arquivo
+more- exibe a paginação de um arquivo de texto
+less- o mesmo que "more" mas sem a opção de ler mais
+cal- calendario
+date- data atual
+whatis- explica comando
+|- permite a execução de 2 arquivos ao mesmo tempo
+>- redireciona a saida de um comando pra outro comando ou arquivo
+>>- redireciona a saida e adiciona a mesma para um comando ou arquivo
+<- anula o >
+&- premite usar dois comandos e separar duas saídas no terminal
+&&- faz com que dois comandos só sejam executados caso o primeiro seja executado com sucesso
 
 
 
