@@ -82,3 +82,15 @@ uname -r- versão do kernel
 uname -m- traz a arquitetura do kernel
 free- saídas de memória física e swap(memória virtual do sistema)
 du -h (diretório)- mostra todos os diretórios, arquivos, etc... cada um, suas ligações e quanto de memória usam.
+-h significa Human Readable, legível para humanos, para que possamos entender o que está na tela, ou as informações que nós iríamos querer saber
+reboot- reinicia o sistema Linux
+shutdown (tempo, preferência:now)- desliga o sistema
+REFERENTE AO SHUTDOWN
+-H - para a máquina
+-p - desliga a máquina
+-r - reinicia a máquina
+-c - cancela o pedido
+--------------------------
+
+
+
