@@ -1,0 +1,10 @@
+ifconfig- encontrado em pacotes no ubuntu- serve para conferir interface de rede
+hostname- informações o host
+hostname -I- IP
+hostname -i- loopback
+who- mostra como estamos logados na rede
+whoami- nome de login do usuário
+ping- verifica se host esta ativo
+ping --- (numero)- limita o numero de pacotes a serem recebidos
+
+
