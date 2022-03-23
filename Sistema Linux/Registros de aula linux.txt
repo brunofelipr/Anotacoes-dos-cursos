@@ -72,3 +72,13 @@ whatis- explica comando
 /var/- diretório com arquivos variáveis gerados pelos programas do sistema. Ex:emails, cache, etc.
 /root/- diretório do usuário root (usuario com mais poder no sistema)
 /proc/- diretório virtual controlado pelo kernel
+cpuinfo- informações de sistema
+meminfo- informações de memória
+lspci- mostra todos os hardwares conectados via PCI
+lsusb- mostra dispositivos usb no sistema
+arch- mostra a arquitetura do sistema
+uname- mostra o nome do kernel. Ex: Linux, Windows, etc.
+uname -r- versão do kernel
+uname -m- traz a arquitetura do kernel
+free- saídas de memória física e swap(memória virtual do sistema)
+du -h (diretório)- mostra todos os diretórios, arquivos, etc... cada um, suas ligações e quanto de memória usam.
