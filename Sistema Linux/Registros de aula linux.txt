@@ -91,6 +91,9 @@ REFERENTE AO SHUTDOWN
 -r - reinicia a máquina
 -c - cancela o pedido
 --------------------------
+lshw- informações do hardware
+lshw -short- menos detalhada
+
 
 
 
