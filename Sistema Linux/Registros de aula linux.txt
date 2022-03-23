@@ -56,6 +56,19 @@ whatis- explica comando
 <- anula o >
 &- premite usar dois comandos e separar duas saídas no terminal
 &&- faz com que dois comandos só sejam executados caso o primeiro seja executado com sucesso
-
-
-
+/bin/- Binarios principais dos usuários
+/boot/- arquivos do sistema de boot
+/dev/- arquivos dos dispositivos
+/etc/- configuração do sistema
+/home/- diretório dos usuários comuns do sistema
+/lib/- bibliotecas essenciais do sistema e os módulos do kernel
+/media/- diretorio de montagem e dispositivos
+/mnt/- media
+/opt/- instalação de programas não oficiais da distribuição ou por conta do usuário
+/sbin/- armazena arquivos executáveis que representam comandos administrativos. Ex:shutdown
+/srv/- diretório para dados de serviços fornecidos pelo sistema
+/tmp/- diretório para arquivos temporários
+/usr/- segunda hierarquia do sistema, onde ficam os usuários comuns do sistema e programas
+/var/- diretório com arquivos variáveis gerados pelos programas do sistema. Ex:emails, cache, etc.
+/root/- diretório do usuário root (usuario com mais poder no sistema)
+/proc/- diretório virtual controlado pelo kernel
