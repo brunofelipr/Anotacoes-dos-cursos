@@ -93,6 +93,23 @@ REFERENTE AO SHUTDOWN
 --------------------------
 lshw- informações do hardware
 lshw -short- menos detalhada
+O que é Rede?
+Rede de computadores é um conjunto de equipamentos interligados de maneira a trocarem informações e comparilharem recursos, arquivos, modems, softwares entre outros
+Rede wan-continental>Rede Man-metropolitana>Rede lan-rede local
+Protocolos
+Protocolo é a linguagem usada pelos dispositivos de uma rede de modo que possam se entender
+Existem vários protocolos
+protocolos:
+IP- protocolo de internet> endereço IP- números que identificam o computador ou celular em uma rede
+ICMP- Mensagens de controle no protocolo da internet- serve pra prover mensagens de controla na nossa comunicação pela internet
+DNS- identifica endereços IP e manter uma tabela com os endereços dos caminhos de algumas
+Interface de Rede
+softwares e/ou hardwares que fazem a comunicação em uma rede de computadores
+As interfaces de rede no Linux estão localizadas no dir /dev e a maioria é criada dinamicamente pelos softwares quando requisitadas
+ex: eth0 - Placa de rede Ethernet - cabeada
+Loopback
+permite que o seu computador faça conexões com ele mesmo, deixando você testar vários programas de rede sem interferir na mesma.
+
 
 
 
