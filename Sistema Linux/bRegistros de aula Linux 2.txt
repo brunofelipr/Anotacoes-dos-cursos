@@ -9,6 +9,10 @@ ping --- (numero)- limita o numero de pacotes a serem recebidos
 traceroute- traça a rota de rede
 whois- traz informações de servidor dns, domínio na internet e muito mais sobre um endereço
 finger- informações sobre usuário logado no host
+dig host- informações sobre o dns de um host
+dig host +short- numero de ip de um dns ou host
+w- informações de who mais detalhadas
+
 
 
 
