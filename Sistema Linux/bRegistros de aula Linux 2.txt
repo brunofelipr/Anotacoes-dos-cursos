@@ -6,5 +6,9 @@ who- mostra como estamos logados na rede
 whoami- nome de login do usuário
 ping- verifica se host esta ativo
 ping --- (numero)- limita o numero de pacotes a serem recebidos
+traceroute- traça a rota de rede
+whois- traz informações de servidor dns, domínio na internet e muito mais sobre um endereço
+finger- informações sobre usuário logado no host
+
 
 
