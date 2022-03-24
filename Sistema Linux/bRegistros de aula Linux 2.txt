@@ -35,5 +35,11 @@ whereis- exibe o caminho do programa e seu manual
 which- exibe o caminho de um programa
 logout- finaliza sessão
 
+Pacotes-
+programas colocados dentro de um arquivo identificados por sua extensão, incluindo arquivos necessários para instalações de programas
+Gerenciadores de pacotes-
+possuem resolução automática de dependência entre pacotes
+FEDORA
+getfedora.org/pt_BR/
 
 
