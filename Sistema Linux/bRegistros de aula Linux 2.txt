@@ -12,7 +12,28 @@ finger- informações sobre usuário logado no host
 dig host- informações sobre o dns de um host
 dig host +short- numero de ip de um dns ou host
 w- informações de who mais detalhadas
-
+history -c- limpa histórico
+alias (sequencia de letras à sua escolha) + '(comando de sua escolha)'- da um atalho de letras à sua escolha para um comando
+nl- conta quantidade de linhas de uma arquivo.txt
+wc -l- linhas escritas e em branco
+wc -w- conta palavras de um texto
+wc -c- bytes de um arquivo
+wc -m- caractéres de um arquivo
+ls -a- arquivos ocultos
+sort -n - organiza em ordem numérica arquivo txt
+last reboot- mostra todas as informações de reinicialização do sistema
+route -n- tabelas de roteamento IP do kernel: interface, roteador, mascara, etc...
+time- mostra o tempo de um processo
+uptime- mostra o tempo que o sistema está rodando
+cowsay- mostra uma vaca falando a mensagem que você escrever
+cmatrix- efeito matrix
+init 0- desliga a máquina
+halt- desliga a máquina
+cmp- compara dois arquivos
+seq- imprime contagem de números com inicio e fim
+whereis- exibe o caminho do programa e seu manual
+which- exibe o caminho de um programa
+logout- finaliza sessão
 
 
 
