@@ -1,3 +1,8 @@
+IDE's
+Integrated Development Environment ou Ambiente de desenvolvimento integrado
+IDEs possuem enormes recursos que facilitam o desenvolvimento de aplicações
+Funções que são onerosas no dia a dia são simplificados pelas IDEs
+Traz comodidade para o programador e agiliza o desenvolvimento
 COMANDOS
 print- mostra o que você escreveu com 'aspas' no próprio terminal
 =- atribui valor
